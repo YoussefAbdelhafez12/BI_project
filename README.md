@@ -2,9 +2,7 @@
 
 A fully functional end-to-end data warehouse built for a retail business using the **Medallion Architecture** (Bronze → Silver → Gold), implemented in **Microsoft SQL Server** and visualized through a **Power BI** dashboard.
 
-> **Course:** Business Intelligence & Data Analytics — German International University (GIU)  
-> **Instructor:** Dr. Shaimaa Masry  
-> **Team:** Youssef Hassan · Ali Mohamed · Omar Samer · Bahaa Ahmed · Hazem Adel
+
 
 ---
 
